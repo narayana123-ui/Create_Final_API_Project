@@ -1,0 +1,1 @@
+The Contact Management is a simple web application that allows users to store and manage their contacts efficiently. The application is built with a React-based frontend and a Node.js & Express backend, using a MongoDB database to store contact information, enabling users to add, update and delete contacts
